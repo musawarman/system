@@ -1,0 +1,14 @@
+/* =============================================================================
+   InvoicePlane
+   Custom Stylesheet
+
+   All changes made in this file will override the default styles in PDFs.
+   ========================================================================== */
+   
+   @page {
+       margin: 18% 10% 20% 10%;
+       /* background-image: url("http://jedanka.com/wp-content/uploads/2018/01/surat2.jpg"); */
+       background-image: url("http://fnazarullah.net/img/kopsurat-jedanka-baru-1.png");
+       background-size:100% 100%;
+       background-repeat: no-repeat;
+   }
